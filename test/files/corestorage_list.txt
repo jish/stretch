@@ -1,0 +1,4 @@
+        Encryption Status:       Unlocked
+        Encryption Type:         AES-XTS
+        Conversion Status:       Complete
+        Conversion Direction:    -none-

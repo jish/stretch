@@ -1,0 +1,4 @@
+        Encryption Status:       BAD_VALUE
+        Encryption Type:         BAD_VALUE
+        Conversion Status:       BAD_VALUE
+        Conversion Direction:    -none-
