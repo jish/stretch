@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Casper_the_Friendly_Ghost#Enemies
 
 * Ghostly Trio – especially Stretch
 
----
+## Usage:
 
 ```ruby
 require 'stretch/client'
